@@ -10,7 +10,7 @@ I'm a passionate data analyst intern with a strong foundation in data manipulati
 * 🌐 Strong communicator with the ability to collaborate effectively with cross-functional teams.
 
 #### 🛠️ Technical Skills
-* Data Analysis: Python, Excel
+* Data Analysis: SQL, Python, Excel
 * Data Visualization: Power BI, Matplotlib, Seaborn, Plotly
 * Data Preparation: Pandas, NumPy, Data Cleaning, Data Transformation
 * Data Modeling: DAX, Data Warehousing, Dimensional Modeling
